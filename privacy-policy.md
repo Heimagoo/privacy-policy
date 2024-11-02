@@ -1,28 +1,27 @@
-# 隐私政策
+# Privacy Policy
 
-感谢您使用我们的应用。为了帮助您了解我们如何处理您的个人数据，我们在此提供我们的隐私政策。
+Thank you for using our application. To help you understand how we handle your personal data, we are providing our privacy policy.
 
-## 我们收集的信息
-我们可能会收集以下类型的信息：
-- **个人身份信息**：如姓名、电子邮件地址、联系方式等。
-- **设备信息**：如设备型号、操作系统版本、IP 地址等。
-- **使用数据**：我们可能会跟踪用户如何使用我们的应用，以改进服务。
+## Information We Collect
+We may collect the following types of information:
+- **Personal Identification Information**: Such as your name, email address, and contact details.
+- **Device Information**: Such as device model, operating system version, and IP address.
+- **Usage Data**: We may track how users interact with our app to improve our services.
 
-## 我们如何使用您的信息
-我们收集的信息可能用于以下目的：
-- 改进用户体验
-- 提供客户支持
-- 向您发送更新或重要通知
+## How We Use Your Information
+The information we collect may be used for the following purposes:
+- To improve user experience
+- To provide customer support
+- To send you updates or important notifications
 
-## 数据的共享和存储
-我们不会将您的个人数据出售给任何第三方。只有在法律要求或保护我们的合法权利时，我们才可能分享您的信息。
+## Sharing and Storing Data
+We do not sell your personal data to any third party. We may only share your information if required by law or to protect our legal rights.
 
-## 数据的安全性
-我们采取合理的安全措施来保护您的数据，但无法保证数据的绝对安全。
+## Data Security
+We take reasonable security measures to protect your data, but we cannot guarantee its absolute security.
 
-## 您的权利
-您可以请求访问、更正或删除我们持有的您的数据。如果您有任何疑问或请求，请联系我们。
+## Your Rights
+You have the right to request access to, correction, or deletion of your data. If you have any questions or requests, please contact us.
 
-## 隐私政策更新
-我们可能会不时更新我们的隐私政策，最新版本将始终在此页面上发布。
-
+## Updates to the Privacy Policy
+We may update our privacy policy from time to time, and the latest version will always be available on this page.
